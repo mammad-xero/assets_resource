@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "themeName": "theme 1",
+
+        "lightThemePrimaryColor": "#e65100",
+        "lightThemeSecondaryColor": "#ffffff",
+        "lightThemeTertiaryColor": "#ffea00",
+        "lightThemeCardColor": "#ffffff",
+
+        "lightThemeOnPrimaryTextColor": "#000000",
+        "lightThemeOnSecondaryTextColor": "#000000",
+        "lightThemeOnTertiaryTextColor": "#000000",
+		
+		"lightThemeOnPrimaryColor": "#000000",
+        "lightThemeOnSecondaryColor": "#000000",
+        "lightThemeOnTertiaryColor": "#000000",
+		
+	
+		
+		"darkThemePrimaryColor": "#e65100",
+        "darkThemeSecondaryColor": "#000000",
+        "darkThemeTertiaryColor": "#ffea00",
+        "darkThemeCardColor": "#ffffff",
+
+        "darkThemeOnPrimaryTextColor": "#000000",
+        "darkThemeOnSecondaryTextColor": "#ffffff",
+        "darkThemeOnTertiaryTextColor": "#000000",
+		
+		"darkThemeOnPrimaryColor": "#000000",
+        "darkThemeOnSecondaryColor": "#ffffff",
+        "darkThemeOnTertiaryColor": "#000000",
+    },
+	
+	
+	 {
+        "id": 2,
+        "themeName": "theme 2",
+
+        "lightThemePrimaryColor": "#1b5e20",
+        "lightThemeSecondaryColor": "#ffffff",
+        "lightThemeTertiaryColor": "#aeea00",
+        "lightThemeCardColor": "#ffffff",
+
+        "lightThemeOnPrimaryTextColor": "#ffffff",
+        "lightThemeOnSecondaryTextColor": "#000000",
+        "lightThemeOnTertiaryTextColor": "#000000",
+		
+		"lightThemeOnPrimaryColor": "#ffffff",
+        "lightThemeOnSecondaryColor": "#000000",
+        "lightThemeOnTertiaryColor": "#000000",
+		
+	
+		
+		"darkThemePrimaryColor": "#1b5e20",
+        "darkThemeSecondaryColor": "#000000",
+        "darkThemeTertiaryColor": "#aeea00",
+        "darkThemeCardColor": "#ffffff",
+
+        "darkThemeOnPrimaryTextColor": "#ffffff",
+        "darkThemeOnSecondaryTextColor": "#ffffff",
+        "darkThemeOnTertiaryTextColor": "#000000",
+		
+		"darkThemeOnPrimaryColor": "#ffffff",
+        "darkThemeOnSecondaryColor": "#ffffff",
+        "darkThemeOnTertiaryColor": "#000000",
+    },
+]
